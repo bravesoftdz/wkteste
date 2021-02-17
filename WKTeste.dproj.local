@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/09/28 17:36:20.000.293,=E:\Users\rjmiy\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/09/28 17:45:04.000.204,=E:\Users\rjmiy\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/02/14 20:04:16.000.928,=E:\Users\rjmiy\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/02/14 20:04:29.000.449,=E:\Users\rjmiy\Documents\Embarcadero\Studio\Projects\dmMain.pas</Transaction>
+    <Transaction>2021/02/14 20:04:30.000.121,=E:\Users\rjmiy\Documents\Embarcadero\Studio\Projects\fMain.pas</Transaction>
+    <Transaction>2021/02/14 20:06:46.000.454,E:\Desenvolvimento\Projetos\WK\WKTeste.dproj=E:\Users\rjmiy\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2021/02/14 20:07:19.000.308,=E:\Desenvolvimento\Projetos\WK\Unit1.pas</Transaction>
+    <Transaction>2021/02/14 20:09:40.000.587,E:\Desenvolvimento\Projetos\WK\uCustomer.pas=E:\Desenvolvimento\Projetos\WK\Unit1.pas</Transaction>
+    <Transaction>2021/02/14 20:20:58.000.071,E:\Desenvolvimento\Projetos\WK\uCustomer.pas=</Transaction>
+    <Transaction>2021/02/14 20:37:46.000.121,=E:\Desenvolvimento\Projetos\WK\Unit1.pas</Transaction>
+    <Transaction>2021/02/14 20:40:27.000.936,E:\Desenvolvimento\Projetos\WK\uOrdemItem.pas=E:\Desenvolvimento\Projetos\WK\Unit1.pas</Transaction>
+    <Transaction>2021/02/14 20:41:49.000.292,E:\Desenvolvimento\Projetos\WK\uOrderItem.pas=E:\Desenvolvimento\Projetos\WK\uOrdemItem.pas</Transaction>
+    <Transaction>2021/02/17 15:20:35.000.707,=E:\Desenvolvimento\Projetos\WK\Unit1.pas</Transaction>
+    <Transaction>2021/02/17 15:20:43.000.572,E:\Desenvolvimento\Projetos\WK\Unit1.pas=E:\Desenvolvimento\Projetos\WK\uCustomer.pas</Transaction>
+    <Transaction>2021/02/17 15:24:10.000.808,=E:\Desenvolvimento\Projetos\WK\Unit1.pas</Transaction>
+    <Transaction>2021/02/17 15:24:15.000.783,E:\Desenvolvimento\Projetos\WK\Unit1.pas=E:\Desenvolvimento\Projetos\WK\uDefs.pas</Transaction>
+    <Transaction>2021/02/17 15:30:23.000.592,=E:\Desenvolvimento\Projetos\WK\Unit1.pas</Transaction>
+    <Transaction>2021/02/17 15:30:29.000.330,E:\Desenvolvimento\Projetos\WK\Unit1.pas=E:\Desenvolvimento\Projetos\WK\uProduct.pas</Transaction>
+    <Transaction>2021/02/17 15:35:37.000.052,=E:\Desenvolvimento\Projetos\WK\Unit1.pas</Transaction>
+    <Transaction>2021/02/17 15:35:42.000.174,E:\Desenvolvimento\Projetos\WK\Unit1.pas=E:\Desenvolvimento\Projetos\WK\uOrder.pas</Transaction>
+  </Transactions>
+</BorlandProject>
